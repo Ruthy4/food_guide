@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFDE7">
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0.4"
+        android:background="@drawable/animation_list"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp"
+        tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/Soup_Recipes"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Soup Recipes" />
+
+        <Button
+            android:id="@+id/desserts"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Desserts" />
+
+        <Button
+            android:id="@+id/Drinks"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Drinks" />
+
+        <Button
+            android:id="@+id/Rice_recipes"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Rice Recipes" />
+
+        <Button
+            android:id="@+id/chicken"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Chicken Recipes" />
+
+        <Button
+            android:id="@+id/salad"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Salad Recipes" />
+
+        <Button
+            android:id="@+id/cake_recipes"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Cake" />
+
+        <Button
+            android:id="@+id/breakfast_recipes"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Breakfast Recipes" />
+
+        <Button
+            android:id="@+id/weight_loss"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Weight loss" />
+
+        <Button
+            android:id="@+id/stew_recipes"
+            style="@style/HeaderTextStyle"
+            android:background="@drawable/button_background"
+            android:onClick="onClick"
+            android:text="Stew / Sauce Recipes" />
+
+    </LinearLayout>
+</ScrollView>

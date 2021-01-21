@@ -1,0 +1,344 @@
+<resources>
+    <string name="app_name">Food Guide</string>
+    <string name="hello_blank_fragment">hello blank fragment</string>
+
+    <string name="name">Chocolate cake</string>
+
+    <string name="preptime">5 mins</string>
+
+    <string name="cooktime">30mins</string>
+
+    <string name="servings">3 persons</string>
+
+    <string name="cake_ingredients">3/4 cup (70g) unsweetened cocoa powder (scoop and level to measure)\n1 tsp baking soda\n1/4 tsp salt\n1 cup (235ml) boiling water\n3/4 cup (175ml) vegetable oil or canola oil\n1/4 cup (56g) unsalted butter, melted\n2 large eggs\n3 large egg yolks\n1 Tbsp vanilla extract\n2 cups (256g) all-purpose flour (spoon and level to measure)\n1/2 cup (116g) sour cream\n1/3 cup (80ml) milk"</string>
+
+    <string name="steps">Step 1\nPreheat oven to 350 degrees. Butter two 9-inch round cake pans then line the bottom of each with a round parchment paper\n\nStep 2\nIn a large, heat proof mixing bowl, whisk together granulated sugar brown sugar, cocoa powder, baking soda and salt. Carefully pour boiling water in to cocoa mixture and immediately whisk to blend well. Allow to cool 5 minutes.\n\nStep 3\nUsing an electric hand mixer set on low speed blend in vegetable oil and melted butter until combined. Add eggs, egg yolks and vanilla extract and blend just to combined. Then add flour and blend until combined, and finish by blending in milk and sour cream just until combined.\n\nStep 4\nDivide mixture evenly among 2 prepared pans. Bake in preheated oven until toothpick inserted into center of cake comes out clean or with a few moist crumbs, about 29 - 34 minutes.\n\nStep 5\nAllow to cool in pan 5 minutes, run butter knife around edge of cake and invert onto a wire rack and allow to cool completely.\n\nStep 6\nTrim cakes level if needed. Add frosting to top of one round then top with second cake and frost top and sides of cake. Store in an airtight container.</string>
+
+
+    <string name="brownie_name">Brownies</string>
+
+    <string name="brownie_preptime">2 mins</string>
+
+    <string name="brownie_cooktime">5 mins</string>
+
+    <string name="brownie_servings">2 persons</string>
+
+    <string name="brownie_ingredients">1/2 cup butter\n 1 cup white sugar\n 2 eggs\n 1 teaspoon vanilla extract\n 1/3 cup unsweetened cocoa powder\n 1/2 cup all-purpose flour\n 1/4 teaspoon salt\n 1/4 teaspoon baking powder</string>
+
+    <string name="brownie_step">Step 1\nPreheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.\n\nStep 2\nIn a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan.\n\nStep 3\nBake in preheated oven for 25 to 30 minutes. Do not overcook.\n\nStep 4\nTo Make Frosting: Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners sugar. Stir until smooth. Frost brownies while they are still warm.</string>
+
+
+    <string name="parfait_name">Parfait</string>
+
+    <string name="parfait_preptime">5 mins</string>
+
+    <string name="parfait_cooktime">5 mins</string>
+
+    <string name="parfait_servings">1 person</string>
+
+    <string name="parfait_ingredients">1 container (5.3 oz) Greek vanilla yogurt\n1/2 cup Nature Valley cranberry almond protein granola (from 11-oz bag)\n1/3 cup fresh orange sections (from 1 orange)\n1 tablespoon pomegranate seeds\n1tablespoon honey</string>
+
+    <string name="parfait_steps">Step 1\nPlace half of the yogurt in bottom of 8-oz glass or small canning jar. Sprinkle half of the granola over yogurt in glass. Top with half of the orange segments and half of the pomegranate seeds.\n\nStep 2\nTop with remaining yogurt, granola, orange segments and pomegranate seeds. Drizzle with honey. Serve immediately.\n\nNote\nCleaned pomegranate seeds are available in many grocery stores, but if you can’t find them, the parfait is still delicious without them.</string>
+
+
+    <string name="egusi_name">Egusi Soup</string>
+
+    <string name="egusi_preptime">30 mins</string>
+
+    <string name="egusi_cooktime">30 mins</string>
+
+    <string name="egusi_servings">16 persons</string>
+
+    <string name="egusi_ingredients">1 cup blended onions (about 3- 5 and fresh chilies, to taste)4 cups egusi (melon seeds, ground or milled)\n1⁄2 – 1 cup palm oil\n2 teaspoons fresh Une (Iru, locust beans)\nSalt (to taste)\nGround crayfish (to taste)\n7– 8 cups stock\nCooked Meat and fish (quantity and variety to personal preference)\n2 cups cut pumpkin leaves\n1 cup waterleaf (cut)\n3 tablespoons bitter leaf (washed)</string>
+
+    <string name="egusi_step1">Step 1\nPrepare the egusi paste, Blend egusi seeds and onion mixture. Set aside.\n\nStep 2\nIn a large pot, heat the palm oil on medium for a minute and then add the Onions. Slowly add the stock and set on low heat to simmer.\n\nStep 3\nScoop teaspoon size balls of the egusi paste mixture into the stock. Be sure to keep ball shape. Leave to simmer for 20 – 30 minutes so the balls cook through. Add the meat and fish and other bits which you’d like to use.\n\nStep4\nAdd cut-up pumpkin leaves. Add the waterleaf. Stir and put a lid on the pot and allow cook for 7–10 minutes, till the leaves wilt.\n\nStep5\nAdd the bitter leaf.  Leave the lid off while the cooking finishes for another 5-10 minutes. Stir, check seasoning and adjust accordingly. Now you can sit back and enjoy your delicious Nigerian Egusi Soup!</string>
+
+
+    <string name="soup_name">Ofe Nsala (White Soup)</string>
+
+    <string name="soup_preptime">25 mins</string>
+
+    <string name="soup_cooktime">1 hr 5mins</string>
+
+    <string name="soup_servings">12 persons</string>
+
+    <string name="soup_ingredients">1 big Catfish\n8 small pieces white yam\n5 Utazi leaves\n2 small seasoning cubes\nSmall piece of ogiri okpei\nA handful crayfish\nHabanero pepper (to taste)\nSalt (if necessary)</string>
+
+    <string name="soup_steps">Step 1\nBoil hot water and pour on the pieces of fish to remove the slime on the fish as well as toughen them. You want to toughen the catfish so it does not disintegrate in the soup.Quickly rinse off the slime with cool water and place the fish in the cooking pot.Add the seasoning cubes (crushed) to the pot of fish.\n\nStep 2\nPeel the yam and cut into medium pieces.Add the pieces of yam.\n\nStep 3\nPour water to cover everything and start cooking. When the yam is soft and moist, bring them out and place in a mortar.\n\nStep 4\nAdd the pounded crayfish, pepper, ogiri okpei and utazi into the pot of fish and continue cooking.\n\nStep 5\nPound the cooked yam in a mortar till smooth and stretchy.\n\nStep 6\nAdd the yam into the pot of Ofe Nsala in small lumps, cover and continue cooking.\nOnce the yam dissolves and thickens the soup, it is done. If you achieve medium consistency before all the yam is dissolved, take out the undissolved yam because you do not want the Ofe Nsala to be too thick.\n\nStep 7\nAdd salt if necessary, stir very well and that’s it!</string>
+    <!-- String name for the ingredients for Jollof preparation -->
+
+    <string name="edi_name">Edikaikong Soup</string>
+
+    <string name="edi_preptime">20 mins</string>
+
+    <string name="edi_cooktime">1 hr 10mins</string>
+
+    <string name="edi_servings">12 persons</string>
+
+    <string name="edi_ingredients">Waterleaf\nFluted pumpkin ugwu leaf\n2 cups palm oil\n1 Stockfish head medium size\n200 g Dried fish or roasted fish\n1 cup of ground or pounded crayfish\n2 kg assorted meat\nSalt and pepper to taste\n4 Seasoning cubes\n1 cup of Periwinkles optional\n2 spoons of ofor or achi\nHalf cup of onions</string>
+
+    <string name="edi_steps">Step 1\nUsing a sharp knife and chopping board, slice the water leaves and fluted pumpkin to tiny bits, wash and set aside in different bowls.\n\nStep 2\nSeason your meat with 2 seasoning cubes, onions and a teaspoon of salt.\n\nStep 3\nAllow to the meat to boil for 10 minutes, then add water and let it cook till it becomes soft and the water is almost dried.\n\nStep 4\nAdd 2 cups of Palm oil (500ml) to the cooked meat in the pot while still on heat.\n\nStep 5\nSalt to taste be sure the soup is boiling in oil, no water then add the water leaves.\n\nStep 6\nStir for 3-5 minutes. you can add them little by little. Add the ugu (fluted pumpkin) leaves.\n\nStep 6\nStir for 3-5 minutes. you can add them little by little. Add the ugu (fluted pumpkin) leaves.\n\nStep 7\nThe pounded crayfish/pepper, periwinkles, 1 seasoning cube should follow.\n\nStep 8\nStir and taste for salt, you can add another seasoning cube. Allow simmering for 3-5 minutes and you have Nigerias most popular vegetable soup  Edikaikong soup.</string>
+
+
+    <string name="jollof_name">Jollof Rice</string>
+
+    <string name="jollof_preptime">30 mins</string>
+
+    <string name="jollof_cooktime">1hr 30mins</string>
+
+    <string name="jollof_servings">6 persons</string>
+
+    <string name="jollof_ingredients">6 medium tomatoes, sliced\n1 red bell pepper, stemmed, seeded and quartered\n2 small red onions, 1 quartered, 1 diced\n1 scotch bonnet pepper, or habanero, stem removed\n½ cup vegetable oil (120 mL), plus 2 tablespoons\n1 lb boneless chicken thighs (450 g), cubed\n2 teaspoons curry powder\n1 teaspoon dried thyme\n2 cups parboiled long grain rice (400 g), washed</string>
+
+    <string name="jollof_steps">Step 1\nAdd the tomatoes, red bell pepper, quartered onion, and pepper to a blender and blend until smooth.\n\nStep 2\nIn a pot over medium heat, add 2 tablespoons oil, diced red onion, chicken, and curry powder. Cook until onions are soft and chicken has browned, about 8-10 minutes. Remove chicken from pot and set aside.\n\nStep 3\nRaise heat to medium-high, and using the same pot, add pureed tomato mixture, cooking until reduced by half.\n\nStep 4\nAdd in remaining oil, and fry sauce for 8-10 minutes. Stir in chicken, along with rice, stock and thyme leaves.\n\nStep 5\nCover pot tightly with foil. Cover with lid and reduce heat to low, cooking for 30 minutes.\nOnce rice is cooked, fluff up before serving.</string>
+
+
+    <string name="friedrice_name">Fried Rice</string>
+
+    <string name="friedrice_preptime">45 mins</string>
+
+    <string name="friedrice_cooktime">1 hr 30 mins</string>
+
+    <string name="friedrice_servings">8 persons</string>
+
+    <string name="friedrice_ingredients">4 Cups Rice\n5 Cups Sliced Cabbage\n1 Cup Sliced Green Pepper\n2 Cups Sliced Carrot\n2 tbsp Curry Powder\n2 KG Chicken\n300 Grams Cow Liver\n2 Cups Sliced Green Beans\n1/2 Cup Green Peas\n1 Cup sliced onions\n1/2 tsp ground chilies (pepper)\n200 mls Vegetable oil</string>
+
+    <string name="friedrice_steps">Step 1\nParboil chicken and liver (both together) with all the spices (a teaspoon of salt, half cup of sliced onions, a teaspoon of thyme spice, a teaspoon of curry, two seasoning cubes teaspoon each of powdered ginger and garlic).\n\nAllow the meat to cook for ten to fifteen minutes, taste for salt, then pick out and deep fry. Be sure to reserve the stock (meat water)\n\nStep 2\nChop the cabbage, green beans, carrot, liver and set aside in a wide tray.\n\nStep 3\nParboil the 4 cups of rice also and cook with half of the meat stock (water from the meat) and two cups of water, cook until it is about 70% done.\n\nYou have to observe the rice closely. It doesn’t need to be too soft or too hard, just almost done.\n\nStep 4\nSet your pot on heat and add 200mls of vegetable oil\n\nStep 5\nAllow the oil to heat, then add sliced onion (1cup), carrot and green beans. Stir all together, add the cabbage and allow to simmer for a minute while you continue to stir.\n\nStep 6\nAdd the curry powder and stir evenly (2 tbsp should do), just sprinkle all over and stir. Add the ground pepper, a seasoning cube, chicken stock, and salt to taste.\n\nStep 7\nTaste, if you like the taste then go ahead and add the green peppers, stir and add the pre-cooked white rice. stir all together.\n\nStep 8\nCover the pot and allow to simmer for 5 minutes, that is how to cook fried rice the Nigerian way.</string>
+
+
+    <string name="coconutrice_name">Coconut Rice</string>
+
+    <string name="coconutrice_preptime">30 mins</string>
+
+    <string name="coconutrice_cooktime">45 mins</string>
+
+    <string name="coconutrice_servings">6 persons</string>
+
+    <string name="coconutrice_ingredients">1 Big Coconut.\n3 cups of rice\nFresh ground tomatoes 500ml\n2 kg Chicken\n1 cups of onions\n3 seasoning cubes\nHalf teaspoon chicken spice\n150 ml Vegetable oil\nSalt to taste\nPepper to taste</string>
+
+    <string name="coconutrice_steps">Step 1\nGrate the coconut, add two cups of water and squeeze out the coconut milk. You dont want the coconut water, you can drink that one. We need the coconut milk.\n\nStep 2\nParboil 3 cups of rice, wash and set aside.\n\nStep 3\nGrind the tomatoes, you need 500ml, combine with 4 small pepper (scotch bonnet), blend into a paste.\n\nStep 4\nPrecook the chicken, season with a half cup of sliced onions, a teaspoon of salt, half teaspoon of chicken spice, 2 seasoning cubes. Add a cup of water and cook the chicken till it becomes chewable.\n\nStep 5\nSet the boiled chicken aside, with the stock.\n\nStep 6\nSet a clean pot on heat, add vegetable oil (150ml), allow to heat for 90 seconds before adding the ground tomatoes and peppers. fry for 10-15 minutes, stirring now and then.\n\nStep 7\nOnce fried add the cooked chicken and stock, the coconut milk, a cup of water, a seasoning cube, salt to taste.\n\nStep 8\nAllow to boil, then add the rice, remaining half cup of onions, cover your pot and cook for 20-30 minutes. You can add water occasionally.\n\nStep 9\nServe your coconut rice and chicken once it is soft enough for you.</string>
+
+
+    <string name="cocktail_name">Chapman</string>
+
+    <string name="cocktail_preptime">5 mins</string>
+
+    <string name="cocktail_cooktime">5 mins</string>
+
+    <string name="cocktail_servings">3 glasses</string>
+
+    <string name="cocktail_ingredients">1 cup Grenadine syrup\n1 tbs Angostura aromatic bitters\nConcentrated Blackcurrants drink or Ribena blackcurrant\n35cl Fanta\n35cl Sprite\nOrange\nLemon\n1 tray of Ice cube</string>
+
+    <string name="cocktail_steps">Step 1\nGet a bowl or a big jug and pour in a cup of grenadine syrup, this gives it the unique red colour.\n\nStep 2\nAdd a little angostura bitters depending on the percent of alcohol you want it to have.\n\nStep 3\nAdd 35cl of Fanta, 35cl of sprite and the blackcurrant to the mixture.\n\nStep 4\nSqueeze in little sieved orange and lemon juice (this is optional though)\n\nStep 5\nStir the mixture together to get fully incorporated.\n\nStep 6\nAdd few ice cubes into a mug and pour in the mixture, you can put in a slice of lemon, orange or cucumber to spice it up then serve it to your guests.\n\nNote\nIn cases where the chapman is to be made without alcohol the angostura bitters will not be added to it but the truth is it will not have that unique taste of a real chapman but it will still be a very good chapman cocktail drink.</string>
+
+
+    <string name="smoothie_name">Smoothie</string>
+
+    <string name="smoothie_preptime">5 mins</string>
+
+    <string name="smoothie_cooktime">5 mins</string>
+
+    <string name="smoothie_servings">1 person</string>
+
+    <string name="smoothie_ingredients">1 frozen banana\n1/2 cup frozen strawberries\n1 cup unsweetened milk (nut, soy, animal)\n1/2 cup plain Greek yogurt\nHoney or maple syrup, to taste</string>
+
+    <string name="smoothie_steps">Step1 \nAdd liquid to your blender. I typically use unsweetened almond milk, but you could use any other kind of milk, fruit juice, or even just water.\n\nStep 2\nAdd in any fibrous foods. If you are adding in spinach or other greens, this is the time to toss them in.\n\nStep 3\nAdd in your frozen fruits and vegetables. I like to keep at least frozen bananas and frozen strawberries on hand for smoothie making. Any frozen fruit works!\n\nStep 4\nAdd any fresh fruits or veggies you’d like to use. Here is where you’ll toss in fresh strawberries or an avocado half.\n\nStep 5\nTop it off with your favorite nutrition mix-ins. Add protein powder, collagen, chia seeds, turmeric—whatever you’d like to boost the nutrition of the smoothie.\n\nStep 6\nBlend away! you can start your blender on low and then slowly ramp up to full speed. This makes sure everything is mixed well and the blades don’t get stuck. Blend until the smoothie looks silky, and then pour and enjoy.</string>
+
+
+    <string name="juice_name">Orange-Pineaple Juice</string>
+
+    <string name="juice_preptime">5 mins</string>
+
+    <string name="juice_cooktime">5 mins</string>
+
+    <string name="juice_servings">2 glasses</string>
+
+    <string name="juice_ingredients">4 Oranges\n2 cups chopped ripe pineaple\n1 pinch ground black pepper\nsalt\n2 teaspoons sugar(optional)\n1 cup water</string>
+
+    <string name="juice_steps">Step 1\nWash and cut oranges into halves. squeeze out its juice using citrus juicer and remove seeds\n\nStep 2\nTake pineaple pieces, salt, sugar, water and ground pepper in a blender or mixer and blend until smooth puree\n\nStep 3\nStrain and pour puree in a bowl, add orange juice and mix properly.\n\nStep4\nfill up two serving glasses and serve.</string>
+
+
+    <string name="chicken_name">Chicken Pepper soup</string>
+
+    <string name="chicken_preptime">10 mins</string>
+
+    <string name="chicken_cooktime">50 mins</string>
+
+    <string name="chicken_servings">6 people</string>
+
+    <string name="chicken_ingredients">2 lb chicken\n2 Tbsp Crayfish\n3 inches ginger root\n1 Tbsp pepper soup spice\n6 to 8 cups water or as needed\n2 scotch bonnets\n1 onion\n2 plantains Green\n3 to 4 tsp seasoning powder About 3 cubes\n5 garlic cloves\nSalt to taste\nFresh Basil leaves</string>
+
+    <string name="chicken_steps">Step 1\nBlend onions, ginger, garlic, and scotch bonnet and set aside.\n\nStep 2\nCut the chicken into pieces and clean thoroughly.\n\nStep 3\nPut the cleaned chicken inside a pot. Add the blended mixture, seasoning powder and salt to taste. Mix thoroughly and leave to cook for about 10 to 15 minutes.\n\nStep 4\nAdd the pepper soup spice, crayfish, and water. Stir and leave to cook for another 15 minutes.\n\nStep 5\nMeanwhile, peel the plantains and cut them into about 2-inch chunks.\n\nStep 6\nAdd the cut plantains inside the cooking soup and leave to cook for 15 to 20 minutes or till the plantains become tender\n\nstep 7\nStir in the basil leaves and serve hot or warm.</string>
+
+
+    <string name="shawarma_name">Chicken Shawarma</string>
+
+    <string name="shawarma_preptime">30 mins</string>
+
+    <string name="shawarma_cooktime">45 mins</string>
+
+    <string name="shawarma_servings">5 people</string>
+
+    <string name="shawarma_ingredients">2 lb Chicken Thigh boneless\n1 Onion large Red\n2 Tablespoons Lemon juice\n4 cloves  garlic – minced\n1 Tsp Ginger Minced\n2 Teaspoon Black pepper\n2 Tsp Paprika\n1/2 Tsp Nutmeg\n1 Tsp Turmeric or curry powder\n1/2 Tsp Thyme\n1/2 Tsp bouillon cube optional\n1 Scotch bonnet pepper Minced\n2 Tablespoons Olive Oil or any cooking oil of your choice\n1 Tsp Salt or to taste\n\nFOR THE SHAWARMA SAUCE:\n3 Tablespoons Ketchup\n3 Tablespoons Mayonnaise\nCayenne pepper optional\n\nFOR THE FILLING:\n1 Tomato ripe and hard\n1 Onion  small red and sliced into strips\n1/4 lb Cucumber  sliced into strips\n4 to 6 Lettuce leaves\n4 to 6 Tortilla Wraps large</string>
+
+    <string name="shawarma_steps">Step 1\nMarinate the Chicken – Wash and pat dry the chicken.\n\nStep 2\nAdd all the Spices to the Chicken and mix very well.\n\nStep 3\nCover with a plastic wrap or a tight lid and leave in the fridge for at least 20 minutes.\n\nStep 4\nGrill The Shawarma – Lay the Chicken pieces on a parchment lined baking pan, transfer to a 425°F and bake for 25 to 30 minutes.\n\nStep 5\nCheck to make sure it’s cooked through and char it for about 1 to 2 minutes just to make it darker (if you choose)\n\nStep 6\nPrepare the Shawarma Sauce- Mix the Ketchup, Mayonnaise, and Cayenne pepper together and set aside.\n\nStep 7\nServe the Shawarma – Wash and slice all the Vegetables\n\nStep 8\nSpread a thin layer of the Mayonnaise and Ketchup mixture on the Tortilla wrap\n\nStep 9\nLayer the vegetables and Shawarma Chicken on the wrap, drizzle a little more sauce on it and roll it up.\n\nStep 10\nOptional - Place the rolled wrap on a heavy bottom skillet or a grill and brown the wrap enjoy!</string>
+
+
+    <string name="coleslaw_name">Coleslaw</string>
+
+    <string name="coleslaw_preptime">30 mins</string>
+
+    <string name="coleslaw_cooktime">30 mins</string>
+
+    <string name="coleslaw_servings">8 people</string>
+
+    <string name="coleslaw_ingredients">1 small cabbage\n1 small green bell pepper\n½ tin of green peas\n2 medium carrots\n1 medium onion\n5 tablespoons of salad cream (preferably Heinz Classic Salad Cream)\n4 tablespoons of mayonnaise\n½ teaspoon sugar\nA pinch of salt</string>
+
+    <string name="coleslaw_steps">All the vegetables need to be washed.\n\nStep 1\nCut the cabbage, green bell pepper and onions into very tiny pieces.\n\nStep 2\nScrape and shred the carrots using a grater, then use a knife to cut across the shreds to make the pieces even smaller.\n\nStep 3\nPut the cabbage, green pepper, green peas, onions and carrots into a large bowl and stir till you get a good mix.\n\nStep 4\nIn a separate, smaller bowl, mix the salad cream, mayonnaise, sugar and salt.\n\nStep 5\nPour the cream mix into the bowl of vegetables and stir very well.\n\nChill and serve..</string>
+
+
+    <string name="africansalad_name">African Salad</string>
+
+    <string name="africansalad_preptime">15 mins</string>
+
+    <string name="africansalad_cooktime">10 mins</string>
+
+    <string name="africansalad_servings">4 people</string>
+
+    <string name="africansalad_ingredients">8 cups Dried Abacha\n2 ehu seeds calabash nutmeg\n2 cups Ugba Ukpaka\n1/2 cup crayfish\n2 seasoning cubes\n100 ml of palm oil\n1 tsp Powdered potash\nsalt and pepper to taste.\n5 garden eggs\nUtazi leaves\nGarden egg leaves\nMeat/dry fish or stockfish. optional</string>
+
+    <string name="africansalad_steps">Step 1\nBlend your crayfish and also dissolve your potash in half a cup of water.\n\nStep 2\nSlice the onions, garden egg leaves. and Utazi leaves. Set aside, they will be used as the topping.\n\nStep 3\nSoak the dried Abacha in boiled water, allow three minutes and drain the water.\n\nStep 4\nTransfer into a sieve to allow water drain further.\n\nStep 5\nHeat the ugba in a small pot with 3 tbsp water (30ml) and allow to heat for 4 minutes\n\nStep 6\nFilter the dissolved potash into a mortar or pot leaving out the residue.\n\nStep 7\nAdd 150 ml of palm oil to it and stir until it forms a thick-yellowish paste\n\nStep 8\nStir properly before adding the crayfish and pepper, followed by the ground ehu.\n\nStep 9\nAdd the Ugba and a seasoning cube. Stir all together and taste for salt.\n\nStep 10\nNow you can add the abacha\n\nServe with fried meat or fish. Then the leaves and a few slices of onions.</string>
+
+
+    <string name="fruitsalad_name">Fruit Salad</string>
+
+    <string name="fruitsalad_preptime">15 mins</string>
+
+    <string name="fruitsalad_cooktime">10 mins</string>
+
+    <string name="fruitsalad_servings">4 people</string>
+
+    <string name="fruitsalad_ingredients">Pine apple\nWater melon\nBanana\nApple\nPawpaw\nMango\nOrange</string>
+
+    <string name="fruitsalad_steps">Step 1\nPeel off the back of the pine apple, wash with water and cut with a kitchen knife into desirable sizes that will be easy to chew and set aside.\n\nStep 2\nPeel off the back of the water melon, wash it then cut it into tiny shapes and set aside.\n\nStep 3\nPeel off the back of the banana, cut as well into tiny shapes and set aside.\n\nStep 4\nWash the apple, divide it into two, it will give you access to remove the seeds from the fruit, cut the apple into small shapes.\n\nStep 5\nPeel off the back of the pawpaw, remove the seeds inside the fruit and cut into tiny sizes.\n\nStep 6\nWash the back of the mango properly with water, make sure the mango is ripe enough to be chewed easily, then cut the mango into halves, make sure one half is bigger than the other in other to not allow you cut through the seeds, remove the seed in the mango, then cut the mango into tiny shapes.\n\nStep 7\nPeel off the back of the orange then cut the orange into tiny shapes. Make sure to remove all the seeds inside the orange.\n\nNote: it is very important that the fruits to be used for any fruit salad are ripe enough to make cutting and chewing easy.
+    \n\n\nHow to mix the fruits for the salad\n1. Mix the sliced fruits together in one bowl.\n\n2. You can blend the orange to extract the juice and pour it directly on the chopped fruits in the bowl, it will still come out well in the end.\n\n3. Your fruit salad is ready, you can eat it at room temperature or allow it get cold by keeping it in the fridge for few minutes. It all depends of individual preferences.</string>
+
+
+    <string name="vanillacake_name">Vanilla Cake</string>
+
+    <string name="vanillacake_preptime">15 mins</string>
+
+    <string name="vanillacake_cooktime">35 mins</string>
+
+    <string name="vanillacake_servings">12 people</string>
+
+    <string name="vanillacake_ingredients">For The Cake\n\n1 cup (226 g) unsalted butter, softened\n1 ½ cups (300 g) granulated sugar\n4 eggs, room temperature\n1 tablespoon vanilla extract\n2 ¾ cups (330 g) cake flour\n2 ¾ teaspoons baking powder\n½ teaspoon salt\n1 cup (240 ml) whole milk, room temperature</string>
+
+    <string name="vanillacake_steps">Step 1\nPreheat the oven to 350 degrees F. Lightly grease the sides and bottom of two 9inch round cake pans. Line the bottoms with parchment paper cut to fit and generously grease the parchment paper as well. Dust the pans with flour then tap out any excess, set aside.\n\nStep 2\nIn a large bowl, beat the butter and sugar together until light and fluffy, about 5 minutes. Add the eggs, one at a time, mixing well after each addition. Beat in the vanilla.\n\nStep 3\nCombine the flour, baking powder, and salt in a medium bowl. Stir with a whisk and add it to the butter mixture followed by the milk. Beat on medium low speed just until combined.\n\nStep 4\nDivide the batter evenly between the prepared pans. Bake for 20 to 30 minutes or until a toothpick inserted into the center comes out with few moist crumbs attached. Take care to not overbake. Check the cake at 15 minutes to see how it is doing and judge the timing from there.\n\nStep 5\nCool for 10 minutes. Remove from pans and cool completely on a wire rack.\n\nNotes\nMake sure to use room temperature ingredients. Cold eggs will be difficult to thoroughly mix in and will cause the cake to be dense.\n\nMeasure the flour by lightly spooning it into the measuring cup then level the cup with the back of a knife. Or use the weight measurements.\n\nIf you do not have cake flour, you can make Homemade Cake Flour.\n\nStart checking the cake 5-7 minutes sooner than the bake time listed.\nIf the toothpick comes out with wet batter on it, it needs more baking time.\nIf the toothpick comes out with a few moist crumbs on it, its perfectly baked and needs to be removed from the oven.\nIf the toothpick comes out completely clean, you have overbaked the cake and it will be dry. </string>
+
+
+    <string name="cake_name">Pineaple-Coconut Cake</string>
+
+    <string name="cake_preptime">1 hour</string>
+
+    <string name="cake_cooktime">40 mins</string>
+
+    <string name="cake_servings">14 people</string>
+
+    <string name="pineaplecake_ingredients">5 large eggs, separated, room temperature\n¼ teaspoon cream of tartar\n1 cup (200 g) granulated sugar\n½ cup (114 g) unsalted butter, softened\n¼ cup (60 ml) canola oil\n1 teaspoon coconut extract\n1 teaspoon vanilla extract\n2 ¼ cups (270 g) cake flour\n1 teaspoon baking powder\n½ teaspoon baking soda\n¼ teaspoon salt\n1 cup (240 ml) canned coconut cream\n¼ cup (60 ml) buttermilk, room temperature\n1 cup (90 g) shredded sweetened coconut</string>
+
+    <string name="pineaplecake_steps">Step 1\nIn a large bowl, add the egg whites and cream of tartar. Use clean beaters and beat on medium speed until stiff peaks form.\n\nStep 2\nPreheat the oven to 325°F. Grease and lightly flour 3 8-inch round cake pans. Place a piece of parchment paper in the bottom or each pan and set them aside. Set aside.\n\nStep 3\nIn a large bowl, beat the sugar, butter, and oil together until light and fluffy, about 5 minutes. Add the egg yolks, one at a time, mixing well after each addition.\n\nStep 4\nBeat in the coconut cream followed by the buttermilk, coconut extract, and vanilla extract.\n\nStep 5\nCombine the flour, baking powder, baking soda, and salt in a medium bowl. Stir with a whisk and add it to the butter mixture. Beat just until no visible streaks of dry flour remain.\n\nStep 6\nUse a silicone spatula and fold in the shredded coconut. Fold ⅓ of the egg whites into the batter until well incorporated. Gently fold the remaining egg whites into the batter until no streaks remain.\n\nStep 7\nDivide the batter even between the prepared pans. Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean. Cool for 10 minutes. Remove from pans and cool completely on a wire rack.</string>
+
+
+    <string name="pancake_name">Pancakes</string>
+
+    <string name="pancake_preptime">20 mins</string>
+
+    <string name="pancake_cooktime">10 mins</string>
+
+    <string name="pancake_servings">6-7</string>
+
+    <string name="pancake_ingredients">210 grams (1 and 1/2 cups) plain flour\n50 grams (1/4 cup) caster sugar\n2 teaspoons baking powder\n55 grams (1/4 cup) unsalted butter, plus extra for cooking\n2 teaspoon vanilla extract\n2 large eggs\n240 ml (1 cup) milk\nZest of one lemon, optional\nFresh raspberries and golden syrup, to serve</string>
+
+    <string name="pancake_steps">Step 1\nIn a large mixing bowl, sift the flour, sugar and baking powder. Give it a little whisk.\n\nStep 2\nNext, add your butter to a separate mixing bowl and microwave for 20 seconds or so until just melted. Add your vanilla, eggs and milk to your butter mixture and stir to combine. Add fresh lemon zest if using.\n\nStep 3\nAdd the wet mixture to the dry mixture and gently fold through. The mixture should be nice and thick.\n\nStep 4\nHeat a small frying pan on a medium-low heat, add a little butter to the pan and pour over 3 heaped tablespoons or so of pancake batter.  Heat for 1-2 minutes or until golden brown and then flip.\n\nStep 5\nHeat on the opposite side for about 1 minute or until also golden. Remove from heat and set aside. Repeat with remaining pancake batter and butter.\n\nServe pancakes immediately with maple syrup and fresh raspberries.
+</string>
+
+
+    <string name="french_toast_name">French Toast</string>
+
+    <string name="french_toast_preptime">5 mins</string>
+
+    <string name="french_toast_cooktime">15 mins</string>
+
+    <string name="french_toast_servings">3 persons</string>
+
+    <string name="french_toast_ingredients">6 thick slices bread\n2 eggs\n⅔ cup milk\n¼ teaspoon ground cinnamon (Optional)\n¼ teaspoon ground nutmeg (Optional)\n1 teaspoon vanilla extract (Optional)\nsalt to taste</string>
+
+    <string name="french_toast_steps">Step 1\nBeat together egg, milk, salt, desired spices and vanilla.\n\nStep 2\nHeat a lightly oiled griddle or skillet over medium-high heat.\n\nStep 3\nDunk each slice of bread in egg mixture, soaking both sides. Place in pan, and cook on both sides until golden. Serve hot.</string>
+
+
+    <string name="sandwich_name">Club sandwich </string>
+
+    <string name="sandwich_preptime">15 mins</string>
+
+    <string name="sandwich_cooktime">5 mins</string>
+
+    <string name="sandwich_servings">6 persons</string>
+
+    <string name="sandwich_ingredients">1/2 pound boneless Chicken\n2 large Tomatoes Cut into slices\n12 slices Pickles or as desired\n9 slices Bread Toasted\n3 Tbsp Mayonnaise\n3 Tbsp Ketchup\n1 Bunch Lettuce leaves\n1 tbsp Lemon Juice\nSalt and Pepper to taste. </string>
+
+    <string name="sandwich_steps">Step 1\nIf using fresh Chicken (If not skip to the next step)  Place chicken breasts into a saucepan, season with Salt and Pepper (or as desired) and pour enough water to cover it. Place over medium heat and bring to a boil. Cook until the chicken meat is tender.\n\nStep 2\nTransfer the Chicken to a wide plate. If hot, allow it to cool, and shred the chicken meat with two forks.\n\nStep 3\nTransfer the chicken to a deep bowl, add the Mayonnaise, Ketchup, lemon juice, Salt and black pepper to taste. Mix until everything is well blended and set aside.\n\nStep 4\nMeanwhile, toast 9 slices of bread. Then, lay a slice of toast on a plate, or a board add a thick layer of the Chicken mixture on it and cover it up with another layer of toast. Top this layer with the about two Lettuce leaves, Pickles and Tomato slices and cover it up with the third slice of toast.\n\nStep 5\nDivide the arranged sandwich diagonally into halves or quarters and pin with a toothpick or a skewer all the way to the bottom to keep it in place. Enjoy!</string>
+
+
+
+    <string name="cabbage_name">Cabbage Diet Soup</string>
+
+    <string name="cabbage_preptime">20 mins</string>
+
+    <string name="cabbage_cooktime">25 mins</string>
+
+    <string name="cabbage_servings">15 persons</string>
+
+    <string name="cabbage_ingredients">5 carrots, chopped\n3 onions, chopped\n2 (16 ounce) cans whole peeled tomatoes, with liquid\n1 large head cabbage, chopped\n1 (1 ounce) envelope dry onion soup mix\n1 (15 ounce) can cut green beans, drained\n2 quarts tomato juice\n2 green bell peppers, diced\n10 stalks celery, chopped\n1 (14 ounce) can beef broth</string>
+
+    <string name="cabbage_steps">Step 1\nPlace carrots, onions, tomatoes, cabbage, green beans, peppers, and celery in a large pot. \n\nStep 2\nAdd onion soup mix, tomato juice, beef broth, and enough water to cover vegetables. \n\nStep 3\nSimmer until vegetables are tender. \n\nMay be stored in the refrigerator for several days.</string>
+
+
+    <string name="banga_name">Banga Stew </string>
+
+    <string name="banga_preptime">35 mins</string>
+
+    <string name="banga_cooktime">55 mins</string>
+
+    <string name="banga_servings">12 persons</string>
+
+    <string name="banga_ingredients">10 cups Banga palm fruit\n1 Kg Assorted meat\n500 g Mackrele\n1 sachet of ‘Onga soup’ spice\nA cup of Sliced onions\n2 cups of sliced fluted pumpkin optional\n3 seasoning cubes\n1 cup of sliced Scent leave\n200 g dried fish\n1/2 cup ground Crayfish\nPepper to taste\nSalt to taste</string>
+
+    <string name="banga_steps">Step 1\nStart by boiling the palm fruit with just water, it should be ready to pound in 15 minutes. Pound using mortar and pestle.\n\nStep 2\nAdd water to the pounded Banga seeds and squeeze out the thick paste. It should be around 10 cups and thick. Set aside in a large bowl.\n\nStep 3\nSeason the meat and mackerel and precook using the right spices. A teaspoon of salt, two seasoning cubes, and onions.\n\nStep 4\nRemove the fish after 10 minutes and cook the meat till it becomes soft.\n\nStep 5\nOnce the meat is cooked, add the palm fruit paste and allow it to boil.\n\nStep 6\nAdd the washed dried fish and crayfish to the boiling pot.\n\nStep 7\nAdd salt and pepper to taste, a seasoning cube and/or onga classic (half teaspoon), taste your stew. Add the remaining sliced onions and the precooked mackerel.\n\nStep 8\nCover and cook for 10 minutes before adding the chopped scent leaves.\n\nStep 9\nBanga stew (Ofe Akwu) is served with rice, beans or white boiled yam.</string>
+
+
+    <string name="garden_egg_name">Garden Egg sauce</string>
+
+    <string name="garden_egg_preptime">10 mins</string>
+
+    <string name="garden_egg_cooktime">30 mins</string>
+
+    <string name="garden_egg_servings">4-6 persons</string>
+
+    <string name="garden_egg_ingredients">15 Thai eggplants aka green garden-egg\n6 plum tomatoes\n1 large white onion\n¼ cup palm oil\n1 scotch bonnet pepper chopped\n340 g smoked mackerel the equivalent of one large mackerel skinned and de-boned\n1 tsp chicken/ vegetable bullion\n1 small handful of Clove basil aka Nigerian scent leaf/Thai basil\nSalt to taste\nOptional: 2 tbsp dried shrimp\nOptional: Extra dried chilli-pepper</string>
+
+    <string name="garden_egg_steps">Step 1\nTo prep the eggplants, take off the stems, wash and quarter each eggplant then boil in salted water for 10- 15 minutes.\n\nStep 2\nWhile the eggplants are boiling, slice the onions into half-moons, dice the tomatoes, roughly chop the basil, and flake the fish.\n\nStep 3\nOnce the eggplants are fork tender, drain them, and mash them with a potato masher or a fork. They should be the consistency of crushed tomatoes, only slightly chunky.\n\nStep 4\nIn a deep sauce pan, heat up the palm oil for 2 minutes (be careful not to heat the oil for too long or over high heat, unless the oil will bleach), and gently sauté the onions and scotch bonnet peppers until it is softened and starting to brown ever so lightly on the edges of the onions.\n\nStep 5\nAdd in the tomatoes, and cook over medium heat for about 20 minutes, or until the sauce thickens, and the oil starts to raise to the top.\n\nStep 6\nAdd in the smashed eggplant, and continue cooking on low-medium heat for five minutes.\n\nStep 7\nAdd in the smoked mackerel, dried shrimp, and bullion, stir and continue to simmer on low heat.\n\nStep 8\nAt this point, taste the stew, and adjust for salt, and if you are like me add some extra dry pepper for a little bit more heat. Stir in the chopped basil, and turn off the heat.\n\nStep 9\nServe warm with a side of your favorite carbs.</string>
+
+
+    <string name="pepper_stew_name">Pepper Stew</string>
+
+    <string name="pepper_stew_preptime">30 mins</string>
+
+    <string name="pepper_stew_cooktime">10 mins</string>
+
+    <string name="gpepper_stew_servings">10 persons</string>
+
+    <string name="pepper_stew_ingredients">4 Red Bell peppers\n2 Scotch bonnets (Habanero pepper)\n3 Tomatoes large\n4 cloves Garlic\n1- inch Ginger root\n2 tbsp Locust Beans\n2 tbsp Crayfish\n2 Tbsp Red chili flakes\n1/2 Cup Palm Oil\n2 Tsp stock powder\n1/2 Tbsp Dried thyme\n1/2 cup Beef stock\n1.5 lb Beef or any other meat of choice\n5 Boiled eggs\n2 Onions Blend one with the peppers and tomatoes and dice the other one.</string>
+
+    <string name="pepper_stew_steps">Step 1\nBlend the red peppers, Habanero peppers, Tomatoes, Onion, ginger, and garlic\n\nStep 2\nHeat the palm oil and add the onions. Leave to cook the onions for about 10 minutes or till slightly browned.\n\nStep 3\nStir in the blended sauce and leave to cook for about 15 to 20 minutes or till the sauce is reduced.\n\nStep 4\nAdd the crayfish, chili flakes, salt, bouillon powder, thyme, locust beans, beef stock, and the beef. Leave to simmer for another 5 minutes\n\nStep 5\nStir in the boiled eggs and leave to simmer for another 2 minutes\n\nStep 6\nServe over white rice, pasta, boiled yam, boiled potatoes, boiled plantains, and more.</string>
+</resources>
